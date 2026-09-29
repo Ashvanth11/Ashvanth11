@@ -14,4 +14,4 @@ I work primarily in Python and enjoy building systems that connect research idea
 
 ## Let's connect
 
-I'm looking for full-time AI/ML engineering, software engineering, and data science roles starting in early 2027. If you're hiring or want to discuss a project, reach out on [LinkedIn](https://www.linkedin.com/in/ashvanth-r).
+I'm looking for full-time AI/ML engineering, software engineering, and data science roles starting in early 2027. If you're hiring or want to discuss a project, reach out on [LinkedIn](https://www.linkedin.com/in/ashvanth-r) or email me at arathina@usc.edu.
