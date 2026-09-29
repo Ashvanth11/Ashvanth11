@@ -4,8 +4,11 @@ I'm pursuing an MS in Applied Data Science at USC Viterbi, graduating in Decembe
 
 ## Featured projects
 
-- [**Proofrun**](https://github.com/Ashvanth11/proofrun) — Investigates claims about GitHub repositories by reading code, running isolated Docker experiments, and reporting evidence, verdicts, and limitations.
-- [**Medical RAG**](https://github.com/Ashvanth11/medical-rag) — Answers clinical questions using medical guidelines, with citations and confidence gating.
+### [Proofrun](https://github.com/Ashvanth11/proofrun)
+An AI agent that investigates claims about GitHub repositories. It reads source code, gathers evidence, and runs isolated Docker experiments when a claim needs testing. Each investigation reports a verdict with its supporting evidence and limitations. A weekly pipeline also finds promising AI repositories and publishes selected investigations.
+
+### [Medical RAG](https://github.com/Ashvanth11/medical-rag)
+A patient education assistant that answers questions using NIH medical guidelines. It retrieves relevant guidance, includes source citations, and uses a confidence gate to limit unsupported answers. The project includes a multi-turn Streamlit interface for exploring answers and their sources.
 
 I work primarily in Python and enjoy building systems that connect research ideas to practical workflows.
 
